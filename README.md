@@ -1,9 +1,9 @@
 ## Olá! Eu me chamo João Lucas Comar
 
-- 🌐 Estudo no Colegio Estadual do Paraná
+- 🌐 Estudante do Ensino Médio
 - 🏡 Residente de Curitiba-PR.
 - 👨‍💻 Avançando conhecimentos sobre Ruby on Rails e JavaScript.
-- 🏢 CLT na área de desenvolvimento de sistemas.
+- 🏢 Trabalhando na área de desenvolvimento de sistemas.
 
 <h3>Minhas Skills</h3>
 
