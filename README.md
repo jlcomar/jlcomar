@@ -13,10 +13,8 @@
 ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=Ruby%20on%20Rails&logoColor=CC0000)
 
 <div>
-  <a href="https://github.com/jlcomar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcomar&layout=compact&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlcomar&show_icons=true&theme=tokyonight" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcomar&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlcomar&show_icons=true&theme=tokyonight" />
 </div>
 
 <br>
