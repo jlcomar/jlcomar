@@ -12,10 +12,12 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby&logoColor=CC342D)
 ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=Ruby%20on%20Rails&logoColor=CC0000)
 
-
-[![jlcomar GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=jlcomar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jlcomar)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcomar&theme=dark&count_private=true)](https://github.com/jlcomar?tab=repositories)
+<div>
+  <a href="https://github.com/jlcomar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcomar&layout=compact&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlcomar&show_icons=true&theme=tokyonight" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
